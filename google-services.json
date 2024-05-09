@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1080449404770",
+    "project_id": "appdev-c470e",
+    "storage_bucket": "appdev-c470e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080449404770:android:b9b54636c31b789392663b",
+        "android_client_info": {
+          "package_name": "com.companyname.appdev_sleeptracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnDHR6DrldXxxV72MCRvNLa2muR9NMR10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
